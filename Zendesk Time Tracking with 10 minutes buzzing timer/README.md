@@ -1,8 +1,5 @@
 # Zendesk Ticket Time Tracking with Buzzing Sound
 
-![GitHub](https://github.com/syhussaini/TamperMonkey_scripts/blob/c7655b7b675ea45dba97a561d7a8083870422cb3/Zendesk%20Time%20Tracking%20with%2010%20minutes%20buzzing%20timer/LICENSE)
-![GitHub release (latest by date)](https://github.com/syhussaini/TamperMonkey_scripts/tree/main/Zendesk%20Time%20Tracking%20with%2010%20minutes%20buzzing%20timer)
-
 ## Description
 
 This Tampermonkey script enhances the ticket management experience on Zendesk by providing time tracking for each ticket and playing a buzzing sound every 10 minutes to help users stay focused.
