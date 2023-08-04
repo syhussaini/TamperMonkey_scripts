@@ -1,12 +1,12 @@
-# Zendesk Ticket Time Tracking with Buzzing Sound
+# Zendesk Ticket/Chat Time Tracking with Buzzing Sound
 
 ## Description
 
-This Tampermonkey script enhances the ticket management experience on Zendesk by providing time tracking for each ticket and playing a buzzing sound every 10 minutes to help users stay focused.
+This Tampermonkey script enhances the ticket management experience on Zendesk by providing time tracking for each ticket/chat and playing a buzzing sound every 10 minutes to help users stay focused.
 
 **Features:**
 
-- **Time Tracking:** The script keeps track of the time spent working on each Zendesk ticket. It displays the elapsed time in a floating box that can be conveniently moved around the screen.
+- **Time Tracking:** The script keeps track of the time spent working on each Zendesk ticket/chat. It displays the elapsed time in a floating box that can be conveniently moved around the screen.
 
 - **Buzzing Sound:** To maintain productivity, the script plays a short buzzing sound every 10 minutes, acting as a gentle reminder for users to stay attentive and focused.
 
@@ -24,7 +24,7 @@ This Tampermonkey script enhances the ticket management experience on Zendesk by
 
 6. Save the script by clicking the "File" menu and selecting "Save" or pressing `Ctrl + S`.
 
-7. The script is now active on your Zendesk domain. Open any Zendesk ticket, and you'll see the time tracking floating box in the top-right corner. The buzzing sound will play every 10 minutes while you are working on a ticket.
+7. The script is now active on your Zendesk domain. Open any Zendesk ticket/chat, and you'll see the time tracking floating box in the top-right corner. The buzzing sound will play every 10 minutes while you are working on a ticket/chat.
 
 **Note:**
 
@@ -41,6 +41,3 @@ This project is licensed under the GNU General Public License v3.0
 ## Feedback and Support
 
 If you encounter any issues or have feedback related to this script, please open an issue in this repository. Your feedback will be valuable for improving and refining the script.
-
----
-*Feel free to customize this description with your specific GitHub repository links, username, and any other relevant information. The README file will provide users with comprehensive details about the script's usage, installation, and contribution guidelines. Happy sharing!*
