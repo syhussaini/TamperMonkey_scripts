@@ -39,7 +39,7 @@ Contributions are welcome! If you have any suggestions or improvements for this 
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/your-username/Zendesk-Ticket-Time-Tracking/blob/main/LICENSE).
+This project is licensed under the GNU General Public License v3.0
 
 ## Feedback and Support
 
