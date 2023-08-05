@@ -6,6 +6,7 @@
 // @author       Syed Hussaini and ChatGPT
 // @match        https://a8c.zendesk.com/*
 // @grant        GM_addStyle
+// @icon         https://cdn2.iconfinder.com/data/icons/ios-7-icons/50/timer-512.png
 // ==/UserScript==
 
 (function () {
