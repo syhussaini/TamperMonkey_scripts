@@ -11,6 +11,7 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=a8c.com
 // @grant        none
 // ==/UserScript==
+
 (function() {
     'use strict';
 
@@ -76,8 +77,8 @@
         filterRows(searchInput.value.toUpperCase());
     }
 
-    // Wait for the DOM to be fully loaded
-    window.addEventListener('load', function() {
+    // Function to initialize the script
+    function initialize() {
         console.log("TamperMonkey script activated");
 
         // Find all tables with the class "reporttable"
@@ -85,5 +86,20 @@
         tables.forEach(table => {
             addSearchBar(table);
         });
+    }
+
+    // Wait for the DOM to be fully loaded
+    function waitForElement(selector, callback) {
+        const interval = setInterval(() => {
+            if (document.querySelector(selector)) {
+                clearInterval(interval);
+                callback();
+            }
+        }, 100);
+    }
+
+    window.addEventListener('load', function() {
+        waitForElement('.reportcard-box .reporttable', initialize);
     });
+
 })();
