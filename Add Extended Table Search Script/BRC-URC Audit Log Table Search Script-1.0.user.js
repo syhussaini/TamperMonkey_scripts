@@ -6,6 +6,8 @@
 // @author       Syed Hussaini (syhussaini)
 // @match        */tools/reportcard/blog/*
 // @match        */tools/reportcard/user/*
+// @updateURL	 https://github.com/syhussaini/TamperMonkey_scripts/raw/main/Add%20Extended%20Table%20Search%20Script/BRC-URC%20Audit%20Log%20Table%20Search%20Script-1.0.user.js
+// @downloadURL	 https://github.com/syhussaini/TamperMonkey_scripts/raw/main/Add%20Extended%20Table%20Search%20Script/BRC-URC%20Audit%20Log%20Table%20Search%20Script-1.0.user.js
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=a8c.com
 // @grant        none
 // ==/UserScript==
