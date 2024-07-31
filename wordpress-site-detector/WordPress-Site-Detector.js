@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.6
 // @description  Detects if a site is built using WordPress and displays theme and plugins info in a table
-// @author       Syed Hussaini - hussaini.syed@gmail.com
+// @author       Syed Hussaini - Email: hussaini.syed@gmail.com
 // @match        *://*/*
 // @grant        GM_addStyle
 // @updateURL    https://raw.githubusercontent.com/syhussaini/TamperMonkey_scripts/main/wordpress-site-detector/WordPress-Site-Detector.js
