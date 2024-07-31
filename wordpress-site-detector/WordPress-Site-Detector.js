@@ -6,8 +6,8 @@
 // @author       Syed Hussaini - hussaini.syed@gmail.com
 // @match        *://*/*
 // @grant        GM_addStyle
-// @updateURL    https://github.com/<username>/wordpress-site-detector/raw/main/wordpress-site-detector.user.js
-// @downloadURL  https://github.com/<username>/wordpress-site-detector/raw/main/wordpress-site-detector.user.js
+// @updateURL    https://github.com/syhussaini/TamperMonkey_scripts/blob/main/wordpress-site-detector/WordPress-Site-Detector.js
+// @downloadURL  https://github.com/syhussaini/TamperMonkey_scripts/blob/main/wordpress-site-detector/WordPress-Site-Detector.js
 // ==/UserScript==
 
 (function() {
