@@ -10,6 +10,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ### Added
 - Ensured that the copy button's style is not overridden on various sites.
 - Implemented copying of the table as rich text (HTML) instead of plain text.
+- Enhanced the script to store the detected plugins in the browser's local storage and update the list as we navigate different pages. This way, it can accumulate a more complete list over time.
 
 ### Fixed
 - Fixed the issue where the handle for showing/hiding the floating box was not appearing.
