@@ -25,6 +25,9 @@ This TamperMonkey script detects if a website is built with WordPress and displa
 3. Paste the contents of `wordpress-site-detector.user.js` into the script editor.
 4. Save and activate the script.
 
+**Please Note**
+The script works by making AJAX requests to known WordPress REST API endpoints. Note that this might not work on all sites due to CORS policies or disabled REST API.
+
 ## Usage
 - The floating box will appear on the right side of the page.
 - Click the WordPress logo to toggle the box.
