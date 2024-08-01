@@ -8,6 +8,17 @@ This TamperMonkey script detects if a website is built with WordPress and displa
 - Floating, collapsible information box
 - Copy button for copying information in table format
 
+  ## Sample:
+### On a WordPress site
+  ![image](https://github.com/user-attachments/assets/3e485661-723e-4ba2-996c-bab6db60bf9d)
+
+### On a Non-WordPress site
+  ![image](https://github.com/user-attachments/assets/fdf4456e-13e0-40d0-86a2-59dd784a0d46)
+
+
+  
+
+
 ## Installation
 1. Install TamperMonkey extension in your browser.
 2. Create a new userscript in TamperMonkey.
