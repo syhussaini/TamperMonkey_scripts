@@ -1,15 +1,19 @@
 // ==UserScript==
 // @name         WordPress Site Detector
 // @namespace    http://tampermonkey.net/
-// @version      1.9
-// @description  Detects if a site is built using WordPress and displays theme and plugins info in a table
+// @version      2.0
+// @description  Detects if a site is built using WordPress and displays theme and plugins info in a table. Accumulates plugin data over time.
 // @author       Syed Hussaini
 // @match        *://*/*
 // @grant        GM_addStyle
-// @updateURL    https://raw.githubusercontent.com/syhussaini/TamperMonkey_scripts/main/wordpress-site-detector/WordPress-Site-Detector.js
-// @downloadURL  https://raw.githubusercontent.com/syhussaini/TamperMonkey_scripts/main/wordpress-site-detector/WordPress-Site-Detector.js
-// @run-at       document-end
+// @grant        GM_setValue
+// @grant        GM_getValue
+// @grant        GM_registerMenuCommand
+// @grant        GM_notification
+// @downloadURL  https://github.com/syhussaini/TamperMonkey_scripts/raw/main/wordpress-site-detector/WordPress-Site-Detector.js
+// @updateURL    https://github.com/syhussaini/TamperMonkey_scripts/raw/main/wordpress-site-detector/WordPress-Site-Detector.js
 // ==/UserScript==
+
 
 (function() {
     'use strict';
