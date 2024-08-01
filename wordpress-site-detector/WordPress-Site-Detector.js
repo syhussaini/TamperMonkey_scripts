@@ -23,7 +23,7 @@
             background-color: #fff;
             border: 1px solid #ccc;
             box-shadow: 0 0 10px rgba(0,0,0,0.2);
-            z-index: 10000;
+            z-index: 1000000;
             transition: right 0.3s ease;
             display: flex;
             flex-direction: column;
