@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         WordPress Site Detector
 // @namespace    http://tampermonkey.net/
-// @version      2.0
+// @version      1.9
 // @description  Detects if a site is built using WordPress and displays theme and plugins info in a table. Accumulates plugin data over time.
 // @author       Syed Hussaini
 // @match        *://*/*
