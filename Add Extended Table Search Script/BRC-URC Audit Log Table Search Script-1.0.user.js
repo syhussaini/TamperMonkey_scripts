@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         URC/BRC Audit Logs Table Dynamic Search
+// @name         HTML Table Dynamic Search
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Adds a search bar to search and filter URC/BRC Audit Log tables
