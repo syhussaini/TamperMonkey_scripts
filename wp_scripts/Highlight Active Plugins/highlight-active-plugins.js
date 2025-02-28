@@ -6,8 +6,8 @@
 // @author       Syed Hussaini
 // @match        *://*/wp-admin/plugins*
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/syhussaini/TamperMonkey_scripts/refs/heads/main/wp_scripts/highlight-active-plugins.js
-// @downloadURL  https://raw.githubusercontent.com/syhussaini/TamperMonkey_scripts/refs/heads/main/wp_scripts/highlight-active-plugins.js
+// @updateURL    https://raw.githubusercontent.com/syhussaini/TamperMonkey_scripts/refs/heads/main/wp_scripts/Highlight%20Active%20Plugins/highlight-active-plugins.js
+// @downloadURL  https://raw.githubusercontent.com/syhussaini/TamperMonkey_scripts/refs/heads/main/wp_scripts/Highlight%20Active%20Plugins/highlight-active-plugins.js
 // @supportURL   https://github.com/syhussaini/TamperMonkey_scripts/issues
 // ==/UserScript==
 
