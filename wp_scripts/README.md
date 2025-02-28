@@ -1,4 +1,4 @@
-# Highlight Active Plugins - Tampermonkey Script
+# Highlight Active Plugins in WordPress - Tampermonkey Script
 
 This Tampermonkey script highlights active plugin rows in the **WordPress Admin Plugins Page** for better visibility.
 
