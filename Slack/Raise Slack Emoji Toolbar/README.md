@@ -4,7 +4,7 @@
 This Tampermonkey script raises the Slack emoji reaction toolbar by 25px to prevent it from obstructing chat thread link when you hover your mouse.
 
 ### Why?
-When hovering over a person's name in a Slack chat thread to click on the thread’s channel, the emoji toolbar often blocks the link, making it difficult to navigate. Expanding the sidebar width is a workaround, but it reduces the workspace area, which isn't ideal. This script provides a simple fix by shifting the emoji toolbar upwards.
+When hovering over a person's name in a Slack chat thread to click on the thread’s link, the emoji toolbar often blocks the URL, making it difficult to navigate. Expanding the sidebar width is a workaround, but it reduces the workspace area, which isn't ideal. This script provides a simple fix by shifting the emoji toolbar upwards.
 
 ## Installation
 1. Install the [Tampermonkey extension](https://www.tampermonkey.net/) for your browser.
