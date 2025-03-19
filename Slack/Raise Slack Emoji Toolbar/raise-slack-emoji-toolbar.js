@@ -7,8 +7,8 @@
 // @match        *://*.slack.com/*
 // @grant        none
 // @run-at       document-idle
-// @updateURL    https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/main/slack-emoji-toolbar.user.js
-// @downloadURL  https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/main/slack-emoji-toolbar.user.js
+// @updateURL    https://raw.githubusercontent.com/syhussaini/TamperMonkey_scripts/refs/heads/main/Slack/Raise%20Slack%20Emoji%20Toolbar/raise-slack-emoji-toolbar.js
+// @downloadURL  https://raw.githubusercontent.com/syhussaini/TamperMonkey_scripts/refs/heads/main/Slack/Raise%20Slack%20Emoji%20Toolbar/raise-slack-emoji-toolbar.js
 // ==/UserScript==
 
 (function() {
