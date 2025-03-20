@@ -17,7 +17,7 @@
     function adjustEmojiToolbar() {
         const toolbars = document.querySelectorAll('.c-message_actions__container');
         toolbars.forEach(toolbar => {
-            toolbar.style.transform = 'translateY(-25px)';
+            toolbar.style.transform = 'translateY(-15px)';
         });
     }
 
