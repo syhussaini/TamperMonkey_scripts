@@ -1,7 +1,7 @@
 # Raise Slack Emoji Toolbar (Tampermonkey Script)
 
 ## Description
-This Tampermonkey script raises the Slack emoji reaction toolbar by 25px to prevent it from obstructing chat thread link when you hover your mouse.
+This Tampermonkey script raises the Slack emoji reaction toolbar by 15px to prevent it from obstructing chat thread link when you hover your mouse.
 
 ### Why?
 When hovering over a person's name in a Slack chat thread to click on the thread’s link, the emoji toolbar often blocks the URL, making it difficult to navigate. Expanding the sidebar width is a workaround, but it reduces the workspace area, which isn't ideal. This script provides a simple fix by shifting the emoji toolbar upwards.
@@ -14,7 +14,7 @@ When hovering over a person's name in a Slack chat thread to click on the thread
 5. Reload your Slack tab.
 
 ## How It Works
-- The script continuously monitors the DOM for Slack’s emoji toolbar and moves it **25px higher** when it appears.
+- The script continuously monitors the DOM for Slack’s emoji toolbar and moves it **15px higher** when it appears.
 - This ensures that important UI elements remain clickable and accessible.
 
 ## Updates
